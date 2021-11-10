@@ -1,34 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Projeto de front end para website
 
-## Getting Started
+<p>Site desenvolvido para fins de estudo e desenvolvimento nas tecnologias utilizadas, através do workshop Multi-Stack Front-End da TreinaWeb.</p>
 
-First, run the development server:
+## Descrição
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p>O projeto é uma consulta de diaristas buscando pelo cep, utilizando uma api local criada no próprio workshop </p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- ## Netlify
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/79dec243-836e-426a-803f-155eadbb4d0d/deploy-status)](https://app.netlify.com/sites/consultatempo/deploys)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<p>Projeto upado para exibição na plataforma <a href="https://consultatempo.netlify.app/" target="_blank">Netlify </a></p> -->
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Features
 
-## Learn More
+- [x] Barra de Pesquisa
+- [x] Botão de Pesquisa / Loading
+- [x] Retorno dos dados da resposta da API
+- [x] Exibição das informações das diaristas encontradas
+- [x] Informe de Erros
 
-To learn more about Next.js, take a look at the following resources:
+### 🛠 Tecnologias
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Foram utilizados:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [React](https://pt-br.reactjs.org/)
+- [MaterialUi](https://mui.com/pt/)
+- [NextJs](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/docs/intro)
 
-## Deploy on Vercel
+### Sobre mim
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedrohbs00)](https://github.com/pedrohbs00)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohbs/)](https://www.linkedin.com/in/pedrohbs/)
